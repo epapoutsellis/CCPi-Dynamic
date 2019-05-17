@@ -16,6 +16,7 @@ from .ShrinkageOperator import ShrinkageOperator
 
 from .FiniteDifferenceOperator import FiniteDiff
 from .GradientOperator import Gradient
+from .weightedGradient import weightedGradient
 from .SymmetrizedGradientOperator import SymmetrizedGradient
 from .IdentityOperator import Identity
 from .ZeroOperator import ZeroOperator
